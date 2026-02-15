@@ -1,2 +1,2 @@
-# FashionG
+# Fashionkingdom
 E-commerce website
